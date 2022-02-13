@@ -1,4 +1,4 @@
-# AArea Perimeter Diagonal For Rectangle
+# Area Perimeter Diagonal For Rectangle
 This program was created with Java
 By using this program you can enter any length and width for any rectangle and you will get the Area,Perimeter and Diagonal.
 
